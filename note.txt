@@ -1,0 +1,12 @@
+Une classe abstraite : est une classe qui ne peut pas être unstanciée directement. Elle est conçue pour servir de base à d'autres classes qui héritent d'elle. 
+elle peut contenir des méthodes concrètes, et des méthodes abstraites
+
+Ses caractèristiques :
+- Ne peut pas être instanciée
+- peut contenir des méthodes abstraites
+- peut contenir des méthodes concrètes
+- peut contenir des propriétés
+
+Pourquoi utiliser une classe abstraite ?
+* pour définir une structure commune et des comportements partagés que plusieurs
+sous-classes doivent avoir
